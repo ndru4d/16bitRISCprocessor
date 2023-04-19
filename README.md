@@ -1,1 +1,1 @@
-# 16bitRISCprocessor
+The purpose of this project was to design a simple processor using an HDL of our choice. I decided on using Verilog for this project because it was the HDL I had the most experience in. The instruction set of this processor contains 7 instructions: ADD, SUB, MUL, DIV, AND, OR, and NOT. The processor also has 8 registers that are all 8 bits and they are labeled as r0-r7.
